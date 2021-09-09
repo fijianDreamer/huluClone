@@ -100,6 +100,13 @@ h4 {
 	text-decoration: underline;
 }
 
+.live .live-border .legal-text .sub-link-legal-text {
+	font-size: 10px;
+	color: #ccc;
+	margin-top: 20px;
+	text-decoration: underline;
+}
+
 .text-xl{
 	font-size: 70px;
 	font-weight: bold;
